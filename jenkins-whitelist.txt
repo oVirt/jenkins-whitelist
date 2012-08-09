@@ -19,6 +19,7 @@ derez@redhat.com
 dfediuck@redhat.com
 dgopal@redhat.com
 dpierce@redhat.com
+dougsland@redhat.com
 ecohen@redhat.com
 eedri@redhat.com
 emesika@redhat.com
