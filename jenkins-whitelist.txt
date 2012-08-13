@@ -41,7 +41,6 @@ iheim@redhat.com
 ilvovsky@redhat.com
 imain@redhat.com
 imain@vpro.mains.net
-imansano@redhat.com
 jay@localhost.localdomain
 jboggs@redhat.com
 jchoate@redhat.com
@@ -75,7 +74,6 @@ oschreib@redhat.com
 pmyers@mithlond.illuminari.org
 pmyers@mithlond.int.valanet.org
 pmyers@redhat.com
-ranglust@redhat.com
 rgolan@redhat.com
 robert@middleswarth.net
 root@kate.harpcolumn.com
@@ -97,4 +95,5 @@ vszocs@redhat.com
 wenyi@linux.vnet.ibm.com
 work.iec23801@gmail.com
 ydary@redhat.com
+ykaplan@redhat.com
 yzaslavs@redhat.com
