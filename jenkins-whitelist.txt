@@ -1,6 +1,6 @@
-agl@us.ibm.com
 achub@redhat.com
 aclement@linagora.com
+agl@us.ibm.com
 alkaplan@redhat.com
 alonbl@redhat.com
 alourie@redhat.com
@@ -16,11 +16,12 @@ clalance@redhat.com
 clarkbw@gnome.org
 danken@redhat.com
 danny.ran@redhat.com
+deepakcs@linux.vnet.ibm.com
 derez@redhat.com
 dfediuck@redhat.com
 dgopal@redhat.com
-dpierce@redhat.com
 dougsland@redhat.com
+dpierce@redhat.com
 ecohen@redhat.com
 eedri@redhat.com
 emesika@redhat.com
