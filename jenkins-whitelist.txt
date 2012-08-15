@@ -8,6 +8,7 @@ alourie@redhat.com
 amureini@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
+asegurap@redhat.com
 apevec@redhat.com
 asaf@redhat.com
 asegurap@redhat.com
