@@ -39,6 +39,7 @@ hbrock@kate.harpcolumn.com
 hbrock@redhat.com
 hermann.huy@nsn.com
 iheim@redhat.com
+itzikb@mellanox.com
 ilvovsky@redhat.com
 imain@redhat.com
 imain@vpro.mains.net
