@@ -31,6 +31,7 @@ fsimonce@redhat.com
 gchaplik@redhat.com
 gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
+ghammer@redhat.com
 gpadgett@redhat.com
 hateya@redhat.com
 hbrock@caliban.harpcolumn.com
@@ -39,10 +40,10 @@ hbrock@kate.harpcolumn.com
 hbrock@redhat.com
 hermann.huy@nsn.com
 iheim@redhat.com
-itzikb@mellanox.com
 ilvovsky@redhat.com
 imain@redhat.com
 imain@vpro.mains.net
+itzikb@mellanox.com
 jay@localhost.localdomain
 jboggs@redhat.com
 jchoate@redhat.com
