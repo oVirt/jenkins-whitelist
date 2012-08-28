@@ -81,6 +81,7 @@ mmorsi@redhat.com
 mpastern@redhat.com
 msalem@redhat.com
 nigjones@redhat.com
+nslomian@redhat.com
 ofrenkel@redhat.com
 oliel@redhat.com
 omasad@redhat.com
