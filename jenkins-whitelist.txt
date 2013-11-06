@@ -39,6 +39,7 @@ gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
 gpadgett@redhat.com
+gustavo.pedrosa@eldorado.org.br
 hateya@redhat.com
 hbrock@caliban.harpcolumn.com
 hbrock@harpcolumn.com
@@ -60,6 +61,7 @@ kmayilsa@redhat.com
 knesenko@redhat.com
 kroberts@redhat.com
 laravot@redhat.com
+leonardo.bianconi@eldorado.org.br
 lhornyak@redhat.com
 lilei@linux.vnet.ibm.com
 lpeer@redhat.com
@@ -116,6 +118,7 @@ taget@linux.vnet.ibm.com
 tjelinek@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
+vitor.lima@eldorado.org.br
 vszocs@redhat.com
 wenyi@linux.vnet.ibm.com
 work.iec23801@gmail.com
