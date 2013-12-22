@@ -8,9 +8,9 @@ alourie@redhat.com
 amureini@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
-asegurap@redhat.com
 apevec@redhat.com
 asaf@redhat.com
+asegurap@redhat.com
 asegurap@redhat.com
 barumuga@redhat.com
 bazulay@redhat.com
@@ -92,6 +92,8 @@ omasad@redhat.com
 oourfali@redhat.com
 oschreib@redhat.com
 peet@redhat.com
+piotr.kliczewski@gmail.com
+pkliczew@redhat.com
 pmyers@mithlond.illuminari.org
 pmyers@mithlond.int.valanet.org
 pmyers@redhat.com
@@ -131,5 +133,3 @@ ydary@redhat.com
 ykaplan@redhat.com
 yzaslavs@redhat.com
 zhshzhou@linux.vnet.ibm.com
-piotr.kliczewski@gmail.com
-pkliczew@redhat.com
