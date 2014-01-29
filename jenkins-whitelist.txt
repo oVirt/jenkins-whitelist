@@ -63,6 +63,7 @@ lpeer@redhat.com
 lutter@redhat.com
 lvroyce@linux.vnet.ibm.com
 lyarwood@redhat.com
+lzelkha@redhat.com
 mars@linux.vnet.ibm.com
 masayag@redhat.com
 matthias@sigxcpu.org
