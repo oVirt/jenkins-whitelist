@@ -14,6 +14,7 @@ barumuga@redhat.com
 bazulay@redhat.com
 berrange@redhat.com
 bkearney@redhat.com
+chuan.liao@hp.com
 clalance@redhat.com
 clarkbw@gnome.org
 danken@redhat.com
@@ -118,6 +119,7 @@ vszocs@redhat.com
 wenyi@linux.vnet.ibm.com
 work.iec23801@gmail.com
 wudxw@linux.vnet.ibm.com
+xiao-lei.shi@hp.com
 xiawenc@linux.vnet.ibm.com
 xuhj@linux.vnet.ibm.com
 ybronhei@redhat.com
