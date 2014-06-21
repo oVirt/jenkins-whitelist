@@ -8,7 +8,6 @@ amureini@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
 apevec@redhat.com
-asegurap@redhat.com
 barumuga@redhat.com
 bazulay@redhat.com
 berrange@redhat.com
@@ -18,7 +17,6 @@ clalance@redhat.com
 clarkbw@gnome.org
 combuster@gmail.com
 danken@redhat.com
-danny.ran@redhat.com
 deepakcs@linux.vnet.ibm.com
 derez@redhat.com
 dfediuck@redhat.com
@@ -27,7 +25,6 @@ didi@redhat.com
 dornelas@redhat.com
 dougsland@redhat.com
 dpierce@redhat.com
-ecohen@redhat.com
 eedri@redhat.com
 emesika@redhat.com
 fabian.deutsch@gmx.de
@@ -121,5 +118,4 @@ xiawenc@linux.vnet.ibm.com
 xuhj@linux.vnet.ibm.com
 ybronhei@redhat.com
 ydary@redhat.com
-ykaplan@redhat.com
 zhshzhou@linux.vnet.ibm.com
