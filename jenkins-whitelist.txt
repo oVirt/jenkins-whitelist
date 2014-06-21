@@ -82,7 +82,6 @@ nigjones@redhat.com
 nsoffer@redhat.com
 oliel@redhat.com
 oourfali@redhat.com
-oschreib@redhat.com
 peet@redhat.com
 piotr.kliczewski@gmail.com
 pkliczew@redhat.com
