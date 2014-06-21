@@ -109,7 +109,6 @@ tjeyasin@redhat.com
 tnisan@redhat.com
 vitor.lima@eldorado.org.br
 vszocs@redhat.com
-vvolansk@redhat.com
 wenyi@linux.vnet.ibm.com
 work.iec23801@gmail.com
 wudxw@linux.vnet.ibm.com
