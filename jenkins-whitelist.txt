@@ -62,6 +62,7 @@ leonardo.bianconi@eldorado.org.br
 lilei@linux.vnet.ibm.com
 lpeer@redhat.com
 lutter@redhat.com
+lveyde@gmail.com
 lvroyce@linux.vnet.ibm.com
 lyarwood@redhat.com
 lzelkha@redhat.com
@@ -127,4 +128,3 @@ ydary@redhat.com
 ykaplan@redhat.com
 yzaslavs@redhat.com
 zhshzhou@linux.vnet.ibm.com
-lveyde@gmail.com
