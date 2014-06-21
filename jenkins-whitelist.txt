@@ -30,7 +30,6 @@ emesika@redhat.com
 fabian.deutsch@gmx.de
 fabiand@fedoraproject.org
 fsimonce@redhat.com
-gchaplik@redhat.com
 gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
@@ -98,7 +97,6 @@ shaharh@redhat.com
 shaohef@linux.vnet.ibm.com
 shavivi@redhat.com
 shuming@linux.vnet.ibm.com
-smizrahi@redhat.com
 snmishra@linux.vnet.ibm.com
 sseago@denali.boston.redhat.com
 sseago@kodiak.boston.redhat.com
@@ -120,5 +118,4 @@ xuhj@linux.vnet.ibm.com
 ybronhei@redhat.com
 ydary@redhat.com
 ykaplan@redhat.com
-yzaslavs@redhat.com
 zhshzhou@linux.vnet.ibm.com
