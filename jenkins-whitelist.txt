@@ -66,7 +66,6 @@ lveyde@gmail.com
 lveyde@redhat.com
 lvroyce@linux.vnet.ibm.com
 lyarwood@redhat.com
-lzelkha@redhat.com
 mars@linux.vnet.ibm.com
 masayag@redhat.com
 matthias@sigxcpu.org
@@ -81,7 +80,6 @@ mmorsi@localhost.localdomain
 mmorsi@redhat.com
 nigjones@redhat.com
 nsoffer@redhat.com
-ofrenkel@redhat.com
 oliel@redhat.com
 oourfali@redhat.com
 oschreib@redhat.com
