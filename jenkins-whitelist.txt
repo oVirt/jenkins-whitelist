@@ -4,7 +4,6 @@ aclement@linagora.com
 ahino@redhat.com
 alitke@redhat.com
 alkaplan@redhat.com
-alonbl@redhat.com
 amureini@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
