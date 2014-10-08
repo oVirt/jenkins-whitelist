@@ -105,6 +105,7 @@ sseago@kodiak.boston.redhat.com
 sseago@redhat.com
 stephen.a.gordon@gmail.com
 taget@linux.vnet.ibm.com
+tim.speetjens@redhat.com
 tjelinek@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
