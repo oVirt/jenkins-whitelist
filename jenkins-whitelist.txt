@@ -1,5 +1,7 @@
+aaviram@redhat.com
 abonas@redhat.com
 aclement@linagora.com
+ahino@redhat.com
 alitke@redhat.com
 alkaplan@redhat.com
 alonbl@redhat.com
@@ -29,6 +31,7 @@ eedri@redhat.com
 emesika@redhat.com
 fabian.deutsch@gmx.de
 fabiand@fedoraproject.org
+frolland@redhat.com
 fsimonce@redhat.com
 gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
@@ -44,6 +47,7 @@ hermann.huy@nsn.com
 iheim@redhat.com
 imain@redhat.com
 imain@vpro.mains.net
+ishaby@redhat.com
 itzikb@mellanox.com
 jay@localhost.localdomain
 jboggs@redhat.com
@@ -109,6 +113,7 @@ tjeyasin@redhat.com
 tnisan@redhat.com
 vitor.lima@eldorado.org.br
 vszocs@redhat.com
+vvolansk@redhat.com
 wenyi@linux.vnet.ibm.com
 work.iec23801@gmail.com
 wudxw@linux.vnet.ibm.com
