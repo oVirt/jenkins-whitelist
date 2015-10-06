@@ -23,6 +23,7 @@ deepakcs@linux.vnet.ibm.com
 derez@redhat.com
 dfediuck@redhat.com
 dgopal@redhat.com
+didi@redhat.com
 dornelas@redhat.com
 dougsland@redhat.com
 dpierce@redhat.com
@@ -61,6 +62,7 @@ lilei@linux.vnet.ibm.com
 lpeer@redhat.com
 lutter@redhat.com
 lveyde@gmail.com
+lveyde@redhat.com
 lvroyce@linux.vnet.ibm.com
 lyarwood@redhat.com
 lzelkha@redhat.com
@@ -89,6 +91,7 @@ pmyers@mithlond.illuminari.org
 pmyers@mithlond.int.valanet.org
 pmyers@redhat.com
 rgolan@redhat.com
+rmartins@redhat.com
 rmunilla@redhat.com
 robert@middleswarth.net
 root@kate.harpcolumn.com
@@ -96,6 +99,7 @@ root@laforge.boston.redhat.com
 root@perf2.perf.redhat.com
 ryanh@us.ibm.com
 sanjal@redhat.com
+sbonazzo@redhat.com
 sesubram@redhat.com
 shaharh@redhat.com
 shaohef@linux.vnet.ibm.com
@@ -106,6 +110,7 @@ sseago@denali.boston.redhat.com
 sseago@kodiak.boston.redhat.com
 sseago@redhat.com
 stephen.a.gordon@gmail.com
+stirabos@redhat.com
 taget@linux.vnet.ibm.com
 tim.speetjens@redhat.com
 tjelinek@redhat.com
