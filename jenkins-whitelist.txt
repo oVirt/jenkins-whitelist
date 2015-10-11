@@ -17,6 +17,7 @@ bkearney@redhat.com
 chuan.liao@hp.com
 clalance@redhat.com
 clarkbw@gnome.org
+combuster@gmail.com
 danken@redhat.com
 danny.ran@redhat.com
 deepakcs@linux.vnet.ibm.com
