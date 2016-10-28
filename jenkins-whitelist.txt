@@ -51,7 +51,6 @@ jboggs@redhat.com
 jguiditt@redhat.com
 juan.hernandez@redhat.com
 kmayilsa@redhat.com
-kroberts@redhat.com
 laravot@redhat.com
 leonardo.bianconi@eldorado.org.br
 lilei@linux.vnet.ibm.com
