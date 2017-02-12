@@ -1,4 +1,3 @@
-aaviram@redhat.com
 abonas@redhat.com
 aclement@linagora.com
 ahino@redhat.com
