@@ -4,6 +4,7 @@ aclement@linagora.com
 ahino@redhat.com
 alitke@redhat.com
 alkaplan@redhat.com
+amarchuk@redhat.com
 amureini@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
@@ -12,11 +13,13 @@ barumuga@redhat.com
 bazulay@redhat.com
 berrange@redhat.com
 bkearney@redhat.com
+bkorren@redhat.com
 chuan.liao@hp.com
 clalance@redhat.com
 clarkbw@gnome.org
 combuster@gmail.com
 danken@redhat.com
+dbelenky@redhat.com
 deepakcs@linux.vnet.ibm.com
 derez@redhat.com
 dfediuck@redhat.com
@@ -25,6 +28,7 @@ didi@redhat.com
 dornelas@redhat.com
 dougsland@redhat.com
 dpierce@redhat.com
+ederevea@redhat.com
 eedri@redhat.com
 emesika@redhat.com
 fabian.deutsch@gmx.de
@@ -34,6 +38,7 @@ fsimonce@redhat.com
 gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
+gshinar@redhat.com
 gustavo.pedrosa@eldorado.org.br
 hbrock@caliban.harpcolumn.com
 hbrock@harpcolumn.com
@@ -72,10 +77,12 @@ mkolesni@redhat.com
 mlipchuk@redhat.com
 mmorsi@localhost.localdomain
 mmorsi@redhat.com
+ngoldin@redhat.com
 nigjones@redhat.com
 nsoffer@redhat.com
 oliel@redhat.com
 oourfali@redhat.com
+pavel@zhukoff.net
 peet@redhat.com
 piotr.kliczewski@gmail.com
 pkliczew@redhat.com
@@ -88,6 +95,7 @@ rmunilla@redhat.com
 robert@middleswarth.net
 ryanh@us.ibm.com
 sanjal@redhat.com
+sbendavi@redhat.com
 sbonazzo@redhat.com
 sesubram@redhat.com
 shaharh@redhat.com
