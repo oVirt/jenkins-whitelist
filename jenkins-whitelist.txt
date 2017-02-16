@@ -38,6 +38,7 @@ fsimonce@redhat.com
 gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
+gshereme@redhat.com
 gshinar@redhat.com
 gustavo.pedrosa@eldorado.org.br
 hbrock@caliban.harpcolumn.com
