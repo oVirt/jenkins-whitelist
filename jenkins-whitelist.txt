@@ -48,6 +48,7 @@ hermann.huy@nsn.com
 iheim@redhat.com
 imain@redhat.com
 imain@vpro.mains.net
+irosenzw@redhat.com
 ishaby@redhat.com
 itzikb@mellanox.com
 jay@localhost.localdomain
@@ -88,6 +89,7 @@ pkliczew@redhat.com
 pmyers@mithlond.illuminari.org
 pmyers@mithlond.int.valanet.org
 pmyers@redhat.com
+rbarry@redhat.com
 rgolan@redhat.com
 rmartins@redhat.com
 rmunilla@redhat.com
@@ -122,4 +124,5 @@ xiawenc@linux.vnet.ibm.com
 xuhj@linux.vnet.ibm.com
 ybronhei@redhat.com
 ydary@redhat.com
+yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
