@@ -2,6 +2,7 @@ abonas@redhat.com
 aclement@linagora.com
 ahadas@redhat.com
 ahino@redhat.com
+akrejcir@redhat.com
 alitke@redhat.com
 alkaplan@redhat.com
 amarchuk@redhat.com
@@ -74,6 +75,7 @@ itzikb@mellanox.com
 jay@localhost.localdomain
 jboggs@redhat.com
 jguiditt@redhat.com
+jtokar@redhat.com
 juan.hernandez@redhat.com
 kanagaraj.ktr@gmail.com
 kmayilsa@redhat.com
@@ -117,6 +119,7 @@ oliel@redhat.com
 omachace@redhat.com
 oourfali@redhat.com
 peet@redhat.com
+phbailey@redhat.com
 piotr.kliczewski@gmail.com
 pkliczew@redhat.com
 pmyers@mithlond.illuminari.org
@@ -172,5 +175,6 @@ ybronhei@redhat.com
 ydary@redhat.com
 ykaul@redhat.com
 ykleinbe@redhat.com
+yquinn@redhat.com
 yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
