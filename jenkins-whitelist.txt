@@ -24,6 +24,7 @@ co.einav@gmail.com
 combuster@gmail.com
 danken@redhat.com
 dbelenky@redhat.com
+dchaplyg@redhat.com
 deepakcs@linux.vnet.ibm.com
 derez@redhat.com
 dfediuck@redhat.com
@@ -104,6 +105,7 @@ mmorsi@redhat.com
 mperina@redhat.com
 msivak@redhat.com
 mtayer@redhat.com
+mzamazal@redhat.com
 ngoldin@redhat.com
 nigjones@redhat.com
 nsoffer@redhat.com
