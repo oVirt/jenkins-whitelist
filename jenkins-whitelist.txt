@@ -85,6 +85,7 @@ kmayilsa@redhat.com
 kwade@redhat.com
 laravot@redhat.com
 leonardo.bianconi@eldorado.org.br
+lgoldber@redhat.com
 lilei@linux.vnet.ibm.com
 lpeer@redhat.com
 lutter@redhat.com
