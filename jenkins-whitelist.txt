@@ -75,6 +75,7 @@ itzikb@mellanox.com
 jay@localhost.localdomain
 jboggs@redhat.com
 jguiditt@redhat.com
+jniederm@redhat.com
 jtokar@redhat.com
 juan.hernandez@redhat.com
 kanagaraj.ktr@gmail.com
@@ -92,6 +93,7 @@ lyarwood@redhat.com
 mars@linux.vnet.ibm.com
 masayag@redhat.com
 matthias@sigxcpu.org
+mbetak@redhat.com
 mburns@redhat.com
 mcpierce@mcpierce-desktop.usersys.redhat.com
 mcpierce@mcpierce-laptop.(none)
