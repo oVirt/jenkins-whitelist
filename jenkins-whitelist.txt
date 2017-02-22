@@ -104,6 +104,7 @@ mmorsi@localhost.localdomain
 mmorsi@redhat.com
 mmucha@redhat.com
 mperina@redhat.com
+mpolednik@redhat.com
 msivak@redhat.com
 mtayer@redhat.com
 mzamazal@redhat.com
