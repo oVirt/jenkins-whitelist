@@ -36,7 +36,9 @@ dornelas@redhat.com
 dougsland@redhat.com
 dpierce@redhat.com
 ederevea@redhat.com
+edwardh@redhat.com
 eedri@redhat.com
+ehaas@redhat.com
 emesika@redhat.com
 ewarszaw@gmail.com
 ewoud@kohlvanwijngaarden.nl
