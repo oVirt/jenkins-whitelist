@@ -18,6 +18,7 @@ bkearney@redhat.com
 bkorren@redhat.com
 bodnopoz@redhat.com
 brian@proffitt.org
+bzlotnik@redhat.com
 chuan.liao@hp.com
 clalance@redhat.com
 clarkbw@gnome.org
