@@ -124,6 +124,7 @@ nsoffer@redhat.com
 oliel@redhat.com
 omachace@redhat.com
 oourfali@redhat.com
+osvoboda@redhat.com
 peet@redhat.com
 phbailey@redhat.com
 phoracek@redhat.com
