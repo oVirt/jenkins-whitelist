@@ -158,7 +158,6 @@ sharonaftaly@gmail.com
 shavivi@redhat.com
 shuming@linux.vnet.ibm.com
 sleviim@redhat.com
-smizrahi@redhat.com
 smelamud@redhat.com
 snmishra@linux.vnet.ibm.com
 sradco@redhat.com
