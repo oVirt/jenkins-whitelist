@@ -137,7 +137,6 @@ pmyers@redhat.com
 pzhukov@redhat.com
 rbarry@redhat.com
 rgolan@redhat.com
-rmartins@redhat.com
 rmohr@redhat.com
 rmunilla@redhat.com
 rnachimu@redhat.com
