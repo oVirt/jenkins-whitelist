@@ -90,6 +90,7 @@ leonardo.bianconi@eldorado.org.br
 lgoldber@redhat.com
 lilei@linux.vnet.ibm.com
 lpeer@redhat.com
+lukyn17@gmail.com
 lutter@redhat.com
 lveyde@gmail.com
 lveyde@redhat.com
