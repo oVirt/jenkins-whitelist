@@ -172,6 +172,7 @@ tim.speetjens@redhat.com
 tjelinek@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
+trichard@redhat.com
 vfeenstr@redhat.com
 vitor.lima@eldorado.org.br
 vszocs@redhat.com
