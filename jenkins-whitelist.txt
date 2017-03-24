@@ -1,5 +1,6 @@
 abonas@redhat.com
 aclement@linagora.com
+adahms@redhat.com
 ahadas@redhat.com
 ahino@redhat.com
 akrejcir@redhat.com
@@ -14,6 +15,7 @@ awels@redhat.com
 barumuga@redhat.com
 bazulay@redhat.com
 berrange@redhat.com
+bgraveno@redhat.com
 bkearney@redhat.com
 bkorren@redhat.com
 bodnopoz@redhat.com
@@ -86,6 +88,7 @@ kanagaraj.ktr@gmail.com
 kmayilsa@redhat.com
 kwade@redhat.com
 laravot@redhat.com
+lbofp@redhat.com
 leonardo.bianconi@eldorado.org.br
 lgoldber@redhat.com
 lilei@linux.vnet.ibm.com
@@ -103,6 +106,7 @@ mbetak@redhat.com
 mburns@redhat.com
 mcpierce@mcpierce-desktop.usersys.redhat.com
 mcpierce@mcpierce-laptop.(none)
+melewis@redhat.com
 meyering@redhat.com
 mgoldboi@redhat.com
 mhuth@redhat.com
