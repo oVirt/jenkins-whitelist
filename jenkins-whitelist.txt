@@ -44,6 +44,7 @@ ederevea@redhat.com
 edwardh@redhat.com
 eedri@redhat.com
 ehaas@redhat.com
+eheftman@redhat.com
 emarcian@redhat.com
 emesika@redhat.com
 ewarszaw@gmail.com
@@ -88,7 +89,7 @@ kanagaraj.ktr@gmail.com
 kmayilsa@redhat.com
 kwade@redhat.com
 laravot@redhat.com
-lbofp@redhat.com
+lbopf@redhat.com
 leonardo.bianconi@eldorado.org.br
 lgoldber@redhat.com
 lilei@linux.vnet.ibm.com
