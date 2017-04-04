@@ -27,6 +27,7 @@ clarkbw@gnome.org
 co.einav@gmail.com
 combuster@gmail.com
 danken@redhat.com
+dawid.ziolkowski@outlook.com
 dbelenky@redhat.com
 dchaplyg@redhat.com
 deepakcs@linux.vnet.ibm.com
