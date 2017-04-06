@@ -36,6 +36,7 @@ dfediuck@redhat.com
 dgopal@redhat.com
 dholler@redhat.com
 didi@redhat.com
+dkota@redhat.com
 dmitrykuzn@gmail.com
 d.mosquito@gmail.com
 dornelas@redhat.com
