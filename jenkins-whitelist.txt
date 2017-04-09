@@ -11,6 +11,7 @@ amureini@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
 apevec@redhat.com
+aslaikov@redhat.com
 awels@redhat.com
 barumuga@redhat.com
 bazulay@redhat.com
