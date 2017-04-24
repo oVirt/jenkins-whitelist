@@ -85,6 +85,7 @@ ishaby@redhat.com
 itzikb@mellanox.com
 jay@localhost.localdomain
 jboggs@redhat.com
+jdieter@lesbg.com
 jguiditt@redhat.com
 jniederm@redhat.com
 jtokar@redhat.com
