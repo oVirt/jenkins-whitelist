@@ -178,6 +178,7 @@ sseago@kodiak.boston.redhat.com
 sseago@redhat.com
 stephen.a.gordon@gmail.com
 stirabos@redhat.com
+svatylukas@gmail.com
 taget@linux.vnet.ibm.com
 tgolembi@redhat.com
 tim.speetjens@redhat.com
