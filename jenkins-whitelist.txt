@@ -44,6 +44,7 @@ d.mosquito@gmail.com
 dornelas@redhat.com
 dougsland@redhat.com
 dpierce@redhat.com
+dron@redhat.com
 ederevea@redhat.com
 edwardh@redhat.com
 eedri@redhat.com
