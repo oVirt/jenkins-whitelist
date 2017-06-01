@@ -95,7 +95,6 @@ juan.hernandez@redhat.com
 kanagaraj.ktr@gmail.com
 kmayilsa@redhat.com
 kwade@redhat.com
-laravot@redhat.com
 lbopf@redhat.com
 leonardo.bianconi@eldorado.org.br
 lgoldber@redhat.com
