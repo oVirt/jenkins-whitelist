@@ -109,6 +109,7 @@ lvroyce@linux.vnet.ibm.com
 lyarwood@redhat.com
 mars@linux.vnet.ibm.com
 masayag@redhat.com
+makarovavs07@gmail.com
 matthias@sigxcpu.org
 mbetak@redhat.com
 mburns@redhat.com
