@@ -58,6 +58,7 @@ ewoud@kohlvanwijngaarden.nl
 fabian.deutsch@gmx.de
 fabiand@fedoraproject.org
 fabiand@redhat.com
+fabrice.bacchella@orange.fr
 fdeutsch@redhat.com
 frolland@redhat.com
 fromani@redhat.com
