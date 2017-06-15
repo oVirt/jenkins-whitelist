@@ -188,6 +188,7 @@ taget@linux.vnet.ibm.com
 tgolembi@redhat.com
 tim.speetjens@redhat.com
 tjelinek@redhat.com
+pkotas@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
 trichard@redhat.com
