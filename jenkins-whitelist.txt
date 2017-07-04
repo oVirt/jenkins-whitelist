@@ -47,6 +47,7 @@ dougsland@redhat.com
 dpierce@redhat.com
 dron@redhat.com
 dubey504@gmail.com
+duck@redhat.com
 ederevea@redhat.com
 edwardh@redhat.com
 eedri@redhat.com
