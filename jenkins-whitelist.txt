@@ -211,5 +211,4 @@ ykaul@redhat.com
 ykleinbe@redhat.com
 yquinn@redhat.com
 yturgema@redhat.com
-yzaspits@redhat.com
 zhshzhou@linux.vnet.ibm.com
