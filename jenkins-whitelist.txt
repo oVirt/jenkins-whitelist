@@ -56,6 +56,7 @@ ehaas@redhat.com
 eheftman@redhat.com
 emarcian@redhat.com
 emesika@redhat.com
+eshenitz@redhat.com
 ewarszaw@gmail.com
 ewoud@kohlvanwijngaarden.nl
 fabian.deutsch@gmx.de
