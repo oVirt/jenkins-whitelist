@@ -72,6 +72,7 @@ gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
 gianluca.cecchi@gmail.com
+godas@redhat.com
 gpadgett@redhat.com
 gshereme@redhat.com
 gshinar@redhat.com
