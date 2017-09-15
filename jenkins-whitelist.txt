@@ -37,6 +37,7 @@ dchaplyg@redhat.com
 deepakcs@linux.vnet.ibm.com
 derez@redhat.com
 dfediuck@redhat.com
+dfodor@redhat.com
 dgopal@redhat.com
 dholler@redhat.com
 didi@redhat.com
