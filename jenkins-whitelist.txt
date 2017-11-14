@@ -46,6 +46,7 @@ dmitrykuzn@gmail.com
 d.mosquito@gmail.com
 dornelas@redhat.com
 dougsland@redhat.com
+dparth@redhat.com
 dpierce@redhat.com
 dron@redhat.com
 dubey504@gmail.com
@@ -74,6 +75,7 @@ gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
 gianluca.cecchi@gmail.com
+gjoseph@digium.com
 godas@redhat.com
 gpadgett@redhat.com
 gshereme@redhat.com
@@ -115,9 +117,9 @@ lveyde@gmail.com
 lveyde@redhat.com
 lvroyce@linux.vnet.ibm.com
 lyarwood@redhat.com
+makarovavs07@gmail.com
 mars@linux.vnet.ibm.com
 masayag@redhat.com
-makarovavs07@gmail.com
 matthias@sigxcpu.org
 mbetak@redhat.com
 mburns@redhat.com
@@ -156,6 +158,7 @@ phbailey@redhat.com
 phoracek@redhat.com
 piotr.kliczewski@gmail.com
 pkliczew@redhat.com
+pkotas@redhat.com
 pmyers@mithlond.illuminari.org
 pmyers@mithlond.int.valanet.org
 pmyers@redhat.com
@@ -197,7 +200,6 @@ taget@linux.vnet.ibm.com
 tgolembi@redhat.com
 tim.speetjens@redhat.com
 tjelinek@redhat.com
-pkotas@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
 trichard@redhat.com
@@ -220,4 +222,3 @@ ykleinbe@redhat.com
 yquinn@redhat.com
 yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
-gjoseph@digium.com
