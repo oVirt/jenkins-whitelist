@@ -30,6 +30,7 @@ clarkbw@gnome.org
 co.einav@gmail.com
 combuster@gmail.com
 cyberbond95@gmail.com
+d.mosquito@gmail.com
 danken@redhat.com
 dawid.ziolkowski@outlook.com
 dbelenky@redhat.com
@@ -43,7 +44,6 @@ dholler@redhat.com
 didi@redhat.com
 dkota@redhat.com
 dmitrykuzn@gmail.com
-d.mosquito@gmail.com
 dornelas@redhat.com
 dougsland@redhat.com
 dparth@redhat.com
@@ -71,6 +71,7 @@ frolland@redhat.com
 fromani@redhat.com
 fsimonce@redhat.com
 galbh2@gmail.com
+germano@redhat.com
 gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
