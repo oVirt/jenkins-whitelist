@@ -81,7 +81,6 @@ gjoseph@digium.com
 godas@redhat.com
 gpadgett@redhat.com
 gshereme@redhat.com
-gshinar@redhat.com
 gustavo.pedrosa@eldorado.org.br
 hbrock@caliban.harpcolumn.com
 hbrock@harpcolumn.com
@@ -149,7 +148,6 @@ msivak@redhat.com
 mtayer@redhat.com
 mvoglova@redhat.com
 mzamazal@redhat.com
-ngoldin@redhat.com
 nigjones@redhat.com
 nsoffer@redhat.com
 oliel@redhat.com
@@ -177,7 +175,6 @@ robert@middleswarth.net
 ryanh@us.ibm.com
 sabose@redhat.com
 sanjal@redhat.com
-sbendavi@redhat.com
 sbonazzo@redhat.com
 sdickers@redhat.com
 sdubey504@gmail.com
