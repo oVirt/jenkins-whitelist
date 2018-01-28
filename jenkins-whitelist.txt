@@ -94,6 +94,7 @@ ilvovsky@redhat.com
 imain@redhat.com
 imain@vpro.mains.net
 infra@ovirt.org
+ipinto@redhat.com
 irosenzw@redhat.com
 ishaby@redhat.com
 itzikb@mellanox.com
