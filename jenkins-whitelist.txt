@@ -209,6 +209,7 @@ tnisan@redhat.com
 trichard@redhat.com
 vfeenstr@redhat.com
 vitor.lima@eldorado.org.br
+vkunda@redhat.com
 vszocs@redhat.com
 wallaroo1976@gmail.com
 wenyi@linux.vnet.ibm.com
