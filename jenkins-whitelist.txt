@@ -197,6 +197,7 @@ sleviim@redhat.com
 smelamud@redhat.com
 snmishra@linux.vnet.ibm.com
 sradco@redhat.com
+srosenbe@redhat.com
 sseago@denali.boston.redhat.com
 sseago@kodiak.boston.redhat.com
 sseago@redhat.com
