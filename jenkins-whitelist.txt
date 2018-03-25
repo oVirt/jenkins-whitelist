@@ -204,6 +204,7 @@ sseago@redhat.com
 stephen.a.gordon@gmail.com
 stirabos@redhat.com
 svatylukas@gmail.com
+sveta.haas@gmail.com
 taget@linux.vnet.ibm.com
 tgolembi@redhat.com
 tim.speetjens@redhat.com
