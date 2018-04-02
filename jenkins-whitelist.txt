@@ -64,6 +64,7 @@ eraviv@redhat.com
 eshenitz@redhat.com
 ewarszaw@gmail.com
 ewoud@kohlvanwijngaarden.nl
+eyonasi@redhat.com
 fabian.deutsch@gmx.de
 fabiand@fedoraproject.org
 fabiand@redhat.com
