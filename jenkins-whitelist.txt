@@ -12,6 +12,7 @@ amusil@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
 apevec@redhat.com
+arachman@redhat.com
 aslaikov@redhat.com
 awels@redhat.com
 barumuga@redhat.com
@@ -85,6 +86,7 @@ godas@redhat.com
 gpadgett@redhat.com
 gshereme@redhat.com
 gustavo.pedrosa@eldorado.org.br
+gzaidman@redhat.com
 hbrock@caliban.harpcolumn.com
 hbrock@harpcolumn.com
 hbrock@kate.harpcolumn.com
