@@ -31,7 +31,6 @@ clarkbw@gnome.org
 co.einav@gmail.com
 combuster@gmail.com
 cyberbond95@gmail.com
-d.mosquito@gmail.com
 dafna3@gmail.com
 danken@redhat.com
 dawid.ziolkowski@outlook.com
@@ -46,6 +45,7 @@ dholler@redhat.com
 didi@redhat.com
 dkota@redhat.com
 dmitrykuzn@gmail.com
+d.mosquito@gmail.com
 dornelas@redhat.com
 dougsland@redhat.com
 dparth@redhat.com
@@ -102,8 +102,8 @@ irosenzw@redhat.com
 ishaby@redhat.com
 itzikb@mellanox.com
 jay@localhost.localdomain
-jcoscia@redhat.com
 jboggs@redhat.com
+jcoscia@redhat.com
 jdieter@lesbg.com
 jguiditt@redhat.com
 jniederm@redhat.com
@@ -181,8 +181,8 @@ rnori@redhat.com
 robert@middleswarth.net
 ryanh@us.ibm.com
 sabose@redhat.com
-sanjal@redhat.com
 sahiljoseph20@gmail.com
+sanjal@redhat.com
 sbonazzo@redhat.com
 sdickers@redhat.com
 sdubey504@gmail.com
