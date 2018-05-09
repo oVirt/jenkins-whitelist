@@ -135,6 +135,7 @@ mbetak@redhat.com
 mburns@redhat.com
 mcpierce@mcpierce-desktop.usersys.redhat.com
 mcpierce@mcpierce-laptop.(none)
+mdbarroso@redhat.com
 melewis@redhat.com
 meyering@redhat.com
 mgoldboi@redhat.com
