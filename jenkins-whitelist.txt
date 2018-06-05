@@ -183,6 +183,7 @@ rmunilla@redhat.com
 rnachimu@redhat.com
 rnori@redhat.com
 robert@middleswarth.net
+rojoseph@redhat.com
 ryanh@us.ibm.com
 sabose@redhat.com
 sahiljoseph20@gmail.com
