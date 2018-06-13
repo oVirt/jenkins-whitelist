@@ -159,6 +159,7 @@ msivak@redhat.com
 mtayer@redhat.com
 mvoglova@redhat.com
 mzamazal@redhat.com
+nashok@redhat.com
 nigjones@redhat.com
 nsoffer@redhat.com
 oliel@redhat.com
