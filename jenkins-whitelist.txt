@@ -122,6 +122,7 @@ lbopf@redhat.com
 leonardo.bianconi@eldorado.org.br
 lgoldber@redhat.com
 lilei@linux.vnet.ibm.com
+lmilbaum@redhat.com
 lpeer@redhat.com
 lsvaty@redhat.com
 lukyn17@gmail.com
@@ -158,6 +159,7 @@ mmucha@redhat.com
 mperina@redhat.com
 mpolednik@redhat.com
 mscherer@redhat.com
+msheena@redhat.com
 msivak@redhat.com
 mtayer@redhat.com
 mvoglova@redhat.com
@@ -243,4 +245,3 @@ ykleinbe@redhat.com
 yquinn@redhat.com
 yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
-msheena@redhat.com
