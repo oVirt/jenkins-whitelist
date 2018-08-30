@@ -1,6 +1,7 @@
 abonas@redhat.com
 aclement@linagora.com
 adahms@redhat.com
+aefrat@redhat.com
 ahadas@redhat.com
 ahino@redhat.com
 akrejcir@redhat.com
