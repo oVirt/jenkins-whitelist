@@ -152,6 +152,7 @@ mihajlov@linux.vnet.ibm.com
 mishka8520@yahoo.com
 mkalfon@redhat.com
 mkolesni@redhat.com
+mkletzan@redhat.com
 mlibra@redhat.com
 mlipchuk@redhat.com
 mmartinv@redhat.com
