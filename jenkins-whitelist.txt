@@ -13,6 +13,7 @@ amusil@redhat.com
 apahim@redhat.com
 apevec@gigolo.(none)
 apevec@redhat.com
+apinnick@redhat.com
 arachman@redhat.com
 aslaikov@redhat.com
 awels@redhat.com
