@@ -235,6 +235,7 @@ tnisan@redhat.com
 trichard@redhat.com
 vfeenstr@redhat.com
 vitor.lima@eldorado.org.br
+vjuranek@redhat.com
 vkunda@redhat.com
 vszocs@redhat.com
 wallaroo1976@gmail.com
