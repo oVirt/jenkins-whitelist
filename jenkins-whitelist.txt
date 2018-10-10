@@ -25,6 +25,7 @@ biakymet@redhat.com
 birintxo@gmail.com
 bkearney@redhat.com
 bkorren@redhat.com
+blevin@redhat.com
 bodnopoz@redhat.com
 brian@proffitt.org
 bzlotnik@redhat.com
