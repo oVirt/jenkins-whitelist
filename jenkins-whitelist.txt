@@ -41,6 +41,7 @@ dawid.ziolkowski@outlook.com
 dbelenky@redhat.com
 dchaplyg@redhat.com
 deepakcs@linux.vnet.ibm.com
+delfassy@redhat.com
 derez@redhat.com
 dfediuck@redhat.com
 dfodor@redhat.com
@@ -175,6 +176,7 @@ mzamazal@redhat.com
 nashok@redhat.com
 nigjones@redhat.com
 nsoffer@redhat.com
+obockows@redhat.com
 oliel@redhat.com
 omachace@redhat.com
 oourfali@redhat.com
@@ -191,6 +193,7 @@ pmyers@redhat.com
 pzhukov@redhat.com
 rbarry@redhat.com
 rgolan@redhat.com
+rhodain@redhat.com
 rhev-ci-jenkins@jenkins-ci.eng.lab.tlv.redhat.com
 rmohr@redhat.com
 rmunilla@redhat.com
