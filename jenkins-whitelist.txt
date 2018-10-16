@@ -232,7 +232,6 @@ sveta.haas@gmail.com
 taget@linux.vnet.ibm.com
 tbaransk@redhat.com
 tgolembi@redhat.com
-tim.speetjens@redhat.com
 tjelinek@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
@@ -250,11 +249,10 @@ wudxw@linux.vnet.ibm.com
 xiao-lei.shi@hp.com
 xiawenc@linux.vnet.ibm.com
 xuhj@linux.vnet.ibm.com
-ybronhei@redhat.com
 ydary@redhat.com
 yevgenyz@gmail.com
 ykaul@redhat.com
-ykleinbe@redhat.com
+vstinner@redhat.com
 yquinn@redhat.com
 yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
