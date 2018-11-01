@@ -115,6 +115,7 @@ jay@localhost.localdomain
 jboggs@redhat.com
 jcoscia@redhat.com
 jdieter@lesbg.com
+jenkins@ovirt.org
 jguiditt@redhat.com
 jniederm@redhat.com
 jtokar@redhat.com
