@@ -29,6 +29,7 @@ blevin@redhat.com
 bodnopoz@redhat.com
 brian@proffitt.org
 bzlotnik@redhat.com
+cmar@eurotux.com
 chuan.liao@hp.com
 clalance@redhat.com
 clarkbw@gnome.org
