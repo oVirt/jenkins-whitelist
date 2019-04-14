@@ -235,6 +235,7 @@ stephen.a.gordon@gmail.com
 stirabos@redhat.com
 svatylukas@gmail.com
 sveta.haas@gmail.com
+szidmi@redhat.com
 taget@linux.vnet.ibm.com
 tbaransk@redhat.com
 tgolembi@redhat.com
