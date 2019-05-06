@@ -131,6 +131,7 @@ lbopf@redhat.com
 leonardo.bianconi@eldorado.org.br
 lgoldber@redhat.com
 lilei@linux.vnet.ibm.com
+ljelinko@redhat.com
 lmilbaum@redhat.com
 lpeer@redhat.com
 lsvaty@redhat.com
