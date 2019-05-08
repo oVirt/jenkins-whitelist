@@ -1,5 +1,5 @@
-abonas@redhat.com
 abawer@redhat.com
+abonas@redhat.com
 aclement@linagora.com
 adahms@redhat.com
 aefrat@redhat.com
@@ -30,10 +30,10 @@ blevin@redhat.com
 bodnopoz@redhat.com
 brian@proffitt.org
 bzlotnik@redhat.com
-cmar@eurotux.com
 chuan.liao@hp.com
 clalance@redhat.com
 clarkbw@gnome.org
+cmar@eurotux.com
 co.einav@gmail.com
 combuster@gmail.com
 cyberbond95@gmail.com
@@ -159,9 +159,9 @@ michal.skrivanek@redhat.com
 mihajlov@linux.vnet.ibm.com
 mishka8520@yahoo.com
 mkalfon@redhat.com
+mkletzan@redhat.com
 mkolesni@redhat.com
 mkozlovs@redhat.com
-mkletzan@redhat.com
 mlibra@redhat.com
 mlipchuk@redhat.com
 mmartinv@redhat.com
@@ -200,8 +200,8 @@ pmyers@redhat.com
 pzhukov@redhat.com
 rbarry@redhat.com
 rgolan@redhat.com
-rhodain@redhat.com
 rhev-ci-jenkins@jenkins-ci.eng.lab.tlv.redhat.com
+rhodain@redhat.com
 rmohr@redhat.com
 rmunilla@redhat.com
 rnachimu@redhat.com
@@ -240,7 +240,6 @@ szidmi@redhat.com
 taget@linux.vnet.ibm.com
 tbaransk@redhat.com
 tgolembi@redhat.com
-ljelinko@redhat.com
 tjelinek@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
@@ -249,6 +248,7 @@ vfeenstr@redhat.com
 vitor.lima@eldorado.org.br
 vjuranek@redhat.com
 vkunda@redhat.com
+vstinner@redhat.com
 vszocs@redhat.com
 wallaroo1976@gmail.com
 wenyi@linux.vnet.ibm.com
@@ -261,7 +261,6 @@ xuhj@linux.vnet.ibm.com
 ydary@redhat.com
 yevgenyz@gmail.com
 ykaul@redhat.com
-vstinner@redhat.com
 yquinn@redhat.com
 yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
