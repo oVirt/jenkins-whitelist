@@ -135,6 +135,7 @@ ljelinko@redhat.com
 lmilbaum@redhat.com
 lpeer@redhat.com
 lsvaty@redhat.com
+lrotenbe@redhat.com
 lukyn17@gmail.com
 lutter@redhat.com
 lveyde@gmail.com
