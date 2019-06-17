@@ -71,6 +71,7 @@ ena@redhat.com
 enatan@redhat.com
 eraviv@redhat.com
 eshenitz@redhat.com
+eslutsky@redhat.com
 ewarszaw@gmail.com
 ewoud@kohlvanwijngaarden.nl
 eyonasi@redhat.com
@@ -134,8 +135,8 @@ lilei@linux.vnet.ibm.com
 ljelinko@redhat.com
 lmilbaum@redhat.com
 lpeer@redhat.com
-lsvaty@redhat.com
 lrotenbe@redhat.com
+lsvaty@redhat.com
 lukyn17@gmail.com
 lutter@redhat.com
 lveyde@gmail.com
