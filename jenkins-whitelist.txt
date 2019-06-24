@@ -36,6 +36,7 @@ clarkbw@gnome.org
 cmar@eurotux.com
 co.einav@gmail.com
 combuster@gmail.com
+cthao@redhat.com
 cyberbond95@gmail.com
 dafna3@gmail.com
 danken@redhat.com
