@@ -68,6 +68,7 @@ eedri@redhat.com
 ehaas@redhat.com
 eheftman@redhat.com
 emarcian@redhat.com
+emarcus@redhat.com
 emesika@redhat.com
 ena@redhat.com
 enatan@redhat.com
