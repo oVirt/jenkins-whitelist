@@ -117,8 +117,8 @@ imain@vpro.mains.net
 infra@ovirt.org
 ipinto@redhat.com
 irosenzw@redhat.com
-ishaby@redhat.com
 isaranov@redhat.com
+ishaby@redhat.com
 itzikb@mellanox.com
 jay@localhost.localdomain
 jboggs@redhat.com
@@ -199,6 +199,7 @@ pbar@redhat.com
 peet@redhat.com
 phbailey@redhat.com
 phoracek@redhat.com
+pierre.lecomte@oracle.com
 piotr.kliczewski@gmail.com
 pkliczew@redhat.com
 pkotas@redhat.com
