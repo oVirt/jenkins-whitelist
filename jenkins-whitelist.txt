@@ -127,6 +127,7 @@ jcoscia@redhat.com
 jdieter@lesbg.com
 jenkins@ovirt.org
 jguiditt@redhat.com
+jiri.suchomel@suse.com
 jniederm@redhat.com
 jtokar@redhat.com
 juan.hernandez@redhat.com
