@@ -106,6 +106,7 @@ grosenth@redhat.com
 gshereme@redhat.com
 gustavo.pedrosa@eldorado.org.br
 gzaidman@redhat.com
+hbraha@redhat.com
 hbrock@caliban.harpcolumn.com
 hbrock@harpcolumn.com
 hbrock@kate.harpcolumn.com
