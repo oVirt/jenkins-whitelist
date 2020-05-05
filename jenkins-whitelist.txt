@@ -32,6 +32,7 @@ bkearney@redhat.com
 bkorren@redhat.com
 blevin@redhat.com
 bodnopoz@redhat.com
+bpelled@redhat.com
 brian@proffitt.org
 brybacki@redhat.com
 bzlotnik@redhat.com
