@@ -29,6 +29,7 @@ bgraveno@redhat.com
 biakymet@redhat.com
 birintxo@gmail.com
 bkearney@redhat.com
+bkhizgiy@redhat.com
 bkorren@redhat.com
 blevin@redhat.com
 bodnopoz@redhat.com
