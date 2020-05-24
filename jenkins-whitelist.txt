@@ -116,6 +116,7 @@ hbrock@kate.harpcolumn.com
 hbrock@redhat.com
 hdegoede@redhat.com
 hermann.huy@nsn.com
+hstastna@redhat.com
 igoihman@redhat.com
 iheim@redhat.com
 ilvovsky@redhat.com
