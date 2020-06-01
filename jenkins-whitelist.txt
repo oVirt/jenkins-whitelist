@@ -10,6 +10,7 @@ ahrechan@redhat.com
 akhiet@redhat.com
 akrejcir@redhat.com
 alitke@redhat.com
+alitman@redhat.com
 alkaplan@redhat.com
 amarchuk@redhat.com
 amusil@redhat.com
