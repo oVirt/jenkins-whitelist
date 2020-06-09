@@ -220,7 +220,6 @@ pmyers@mithlond.illuminari.org
 pmyers@mithlond.int.valanet.org
 pmyers@redhat.com
 pzhukov@redhat.com
-rbarry@redhat.com
 rchikatw@redhat.com
 rciatti@redhat.com
 rgolan@redhat.com
