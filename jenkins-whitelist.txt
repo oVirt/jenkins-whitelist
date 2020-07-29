@@ -222,6 +222,7 @@ sveta.haas@gmail.com
 szidmi@redhat.com
 taget@linux.vnet.ibm.com
 tbaransk@redhat.com
+tdecacqu@redhat.com
 tgolembi@redhat.com
 tjelinek@redhat.com
 tjeyasin@redhat.com
