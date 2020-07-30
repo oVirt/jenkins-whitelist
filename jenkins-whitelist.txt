@@ -86,6 +86,7 @@ fsimonce@redhat.com
 galbh2@gmail.com
 galfrid@gmail.com
 gbenhaim@redhat.com
+germano@redhat.com
 gerrit2@gerrit.ovirt.org
 gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
