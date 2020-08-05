@@ -63,11 +63,11 @@ ederevea@redhat.com
 edwardh@redhat.com
 eedri@redhat.com
 ehaas@redhat.com
+eisraeli@redhat.com
 emarcus@redhat.com
 emesika@redhat.com
 ena@redhat.com
 enatan@redhat.com
-eisraeli@redhat.com
 eraviv@redhat.com
 eshenitz@redhat.com
 eslutsky@redhat.com
@@ -207,6 +207,7 @@ sgordon@redhat.com
 sgratch@redhat.com
 shaohef@linux.vnet.ibm.com
 sharonaftaly@gmail.com
+shubha.kulkarni@oracle.com
 shuming@linux.vnet.ibm.com
 sleviim@redhat.com
 smelamud@redhat.com
