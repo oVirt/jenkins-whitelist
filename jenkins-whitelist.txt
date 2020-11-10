@@ -21,6 +21,7 @@ arachman@redhat.com
 asocha@redhat.com
 aturgema@redhat.com
 awels@redhat.com
+bamsalem@redhat.com
 berrange@redhat.com
 biakymet@redhat.com
 birintxo@gmail.com
