@@ -188,6 +188,7 @@ pmyers@mithlond.int.valanet.org
 pmyers@redhat.com
 pzhukov@redhat.com
 rarnaud@redhat.com
+rbednar@redhat.com
 rchikatw@redhat.com
 rgolan@redhat.com
 rhev-ci-jenkins@jenkins-ci.eng.lab.tlv.redhat.com
