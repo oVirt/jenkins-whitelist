@@ -5,7 +5,6 @@ aclement@linagora.com
 adahms@redhat.com
 aefrat@redhat.com
 ahadas@redhat.com
-ahrechan@redhat.com
 akhiet@redhat.com
 akrejcir@redhat.com
 alitke@redhat.com
@@ -14,7 +13,6 @@ alkaplan@redhat.com
 amarchuk@redhat.com
 amusil@redhat.com
 apahim@redhat.com
-apevec@gigolo.(none)
 apevec@redhat.com
 apinnick@redhat.com
 arachman@redhat.com
@@ -44,7 +42,6 @@ cyberbond95@gmail.com
 dafna3@gmail.com
 danken@redhat.com
 dawid.ziolkowski@outlook.com
-dbelenky@redhat.com
 deepakcs@linux.vnet.ibm.com
 delfassy@redhat.com
 derez@redhat.com
@@ -80,7 +77,6 @@ fabiand@fedoraproject.org
 fabiand@redhat.com
 fabrice.bacchella@orange.fr
 fdeutsch@redhat.com
-fgavrilo@redhat.com
 frolland@redhat.com
 fromani@redhat.com
 fsimonce@redhat.com
@@ -89,7 +85,6 @@ galfrid@gmail.com
 gbenhaim@redhat.com
 germano@redhat.com
 gerrit2@gerrit.ovirt.org
-gerrit2@ip-10-40-73-142.ec2.internal
 ghammer@redhat.com
 gianluca.cecchi@gmail.com
 gjoseph@digium.com
@@ -99,9 +94,7 @@ gshereme@redhat.com
 gustavo.pedrosa@eldorado.org.br
 gzaidman@redhat.com
 hbraha@redhat.com
-hbrock@caliban.harpcolumn.com
 hbrock@harpcolumn.com
-hbrock@kate.harpcolumn.com
 hbrock@redhat.com
 hdegoede@redhat.com
 hermann.huy@nsn.com
@@ -147,8 +140,6 @@ mars@linux.vnet.ibm.com
 masayag@redhat.com
 matthias@sigxcpu.org
 mburns@redhat.com
-mcpierce@mcpierce-desktop.usersys.redhat.com
-mcpierce@mcpierce-laptop.(none)
 mdbarroso@redhat.com
 mgoldboi@redhat.com
 mhuth@redhat.com
@@ -160,7 +151,6 @@ mkolesni@redhat.com
 mlibra@redhat.com
 mmartinv@redhat.com
 mmirecki@redhat.com
-mmorsi@localhost.localdomain
 mnecas@redhat.com
 mperina@redhat.com
 mscherer@redhat.com
@@ -217,8 +207,6 @@ smelamud@redhat.com
 snmishra@linux.vnet.ibm.com
 sradco@redhat.com
 srosenbe@redhat.com
-sseago@denali.boston.redhat.com
-sseago@kodiak.boston.redhat.com
 sseago@redhat.com
 stephen.a.gordon@gmail.com
 stirabos@redhat.com
