@@ -112,6 +112,7 @@ jay@localhost.localdomain
 jboggs@redhat.com
 jcoscia@redhat.com
 jdieter@lesbg.com
+jean-louis@dupond.be
 jenkins@ovirt.org
 jguiditt@redhat.com
 jiri.suchomel@suse.com
@@ -134,8 +135,8 @@ lveyde@redhat.com
 lvroyce@linux.vnet.ibm.com
 lyarwood@redhat.com
 majunjiev@gmail.com
-mali@redhat.com
 makarovavs07@gmail.com
+mali@redhat.com
 mars@linux.vnet.ibm.com
 masayag@redhat.com
 matthias@sigxcpu.org
@@ -239,4 +240,3 @@ ykaul@redhat.com
 yquinn@redhat.com
 yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
-jean-louis@dupond.be
