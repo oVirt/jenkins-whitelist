@@ -160,6 +160,7 @@ msivak@redhat.com
 msobczyk@redhat.com
 mzamazal@redhat.com
 nashok@redhat.com
+nkomonen@redhat.com
 nlevy@redhat.com
 nsoffer@redhat.com
 obockows@redhat.com
