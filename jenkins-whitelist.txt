@@ -86,6 +86,7 @@ gbenhaim@redhat.com
 germano@redhat.com
 gerrit2@gerrit.ovirt.org
 ghammer@redhat.com
+ghartuv@redhat.com
 gianluca.cecchi@gmail.com
 gjoseph@digium.com
 godas@redhat.com
