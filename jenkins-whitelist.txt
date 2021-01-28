@@ -208,7 +208,6 @@ sleviim@redhat.com
 smelamud@redhat.com
 snmishra@linux.vnet.ibm.com
 sradco@redhat.com
-srosenbe@redhat.com
 sseago@redhat.com
 stephen.a.gordon@gmail.com
 stirabos@redhat.com
