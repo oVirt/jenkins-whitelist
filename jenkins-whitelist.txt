@@ -76,6 +76,7 @@ fabiand@fedoraproject.org
 fabiand@redhat.com
 fabrice.bacchella@orange.fr
 fdeutsch@redhat.com
+fjanuska@redhat.com
 frolland@redhat.com
 fromani@redhat.com
 fsimonce@redhat.com
