@@ -104,7 +104,6 @@ imain@redhat.com
 imain@vpro.mains.net
 infra@ovirt.org
 ipinto@redhat.com
-irosenzw@redhat.com
 isaranov@redhat.com
 itzikb@mellanox.com
 jay@localhost.localdomain
