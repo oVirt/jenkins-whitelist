@@ -217,7 +217,6 @@ tgolembi@redhat.com
 tjelinek@redhat.com
 tjeyasin@redhat.com
 tnisan@redhat.com
-trichard@redhat.com
 vfeenstr@redhat.com
 vitor.lima@eldorado.org.br
 vjuranek@redhat.com
