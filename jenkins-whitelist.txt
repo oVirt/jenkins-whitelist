@@ -233,5 +233,4 @@ xuhj@linux.vnet.ibm.com
 yevgenyz@gmail.com
 ykaul@redhat.com
 yquinn@redhat.com
-yturgema@redhat.com
 zhshzhou@linux.vnet.ibm.com
