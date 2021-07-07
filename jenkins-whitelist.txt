@@ -146,6 +146,7 @@ mhuth@redhat.com
 michal.skrivanek@redhat.com
 mihajlov@linux.vnet.ibm.com
 mishka8520@yahoo.com
+mkemel@redhat.com
 mkletzan@redhat.com
 mkolesni@redhat.com
 mlibra@redhat.com
