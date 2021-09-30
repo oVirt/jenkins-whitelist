@@ -54,6 +54,7 @@ dparth@redhat.com
 dron@redhat.com
 dubey504@gmail.com
 duck@redhat.com
+dvolkov@redhat.com
 ederevea@redhat.com
 edwardh@redhat.com
 eedri@redhat.com
@@ -213,7 +214,6 @@ stephen.a.gordon@gmail.com
 stirabos@redhat.com
 svatylukas@gmail.com
 sveta.haas@gmail.com
-szidmi@redhat.com
 taget@linux.vnet.ibm.com
 tbaransk@redhat.com
 tdecacqu@redhat.com
