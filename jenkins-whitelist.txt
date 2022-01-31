@@ -192,7 +192,6 @@ rojoseph@redhat.com
 rszwajko@redhat.com
 ryanh@us.ibm.com
 sabose@redhat.com
-sabusale@redhat.com
 sahiljoseph20@gmail.com
 sanja@redhat.com
 sbonazzo@redhat.com
